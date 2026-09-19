@@ -11,4 +11,4 @@
 - [x] **9. Add audit trail and mobile layout**.
 - [x] **10. Deploy public demo**.
 - [x] **11. Prepare architecture, failure test, thesis, and 90-second script**.
-- [ ] **12. Create public GitHub repo and push this package**.
+- [x] **12. Create public GitHub repo and push this package**.
