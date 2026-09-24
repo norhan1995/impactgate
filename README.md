@@ -55,3 +55,8 @@ GPT-5.6 Sol was used for scoping, architecture, implementation, eval design, deb
 
 ## Out of scope
 Real financial transfers, external email APIs, production multi-tenant auth/RBAC, and a general-purpose natural-language planner. The entry is intentionally focused on the simulation-gate primitive.
+
+## Author
+
+**Norhan Rifaie**  
+[Portfolio](https://norhan-rifaie-portfolio-t6s0kg.v2.appdeploy.ai/) · [GitHub](https://github.com/norhan1995)
