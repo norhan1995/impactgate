@@ -1,5 +1,7 @@
 # ImpactGate
 
+[![CI](https://github.com/norhan1995/impactgate/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/norhan1995/impactgate/actions/workflows/verify.yml)
+
 **Simulate before you act.** ImpactGate is a safety layer for agents that previews the blast radius of a consequential write, lets a human approve/tweak/reject it, then re-checks live state before commit.
 
 ## Live demo
